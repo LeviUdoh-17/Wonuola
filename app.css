@@ -1,0 +1,119 @@
+/* .kaushan-script-regular {
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+   */
+body{
+    width: 100%;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+.mxc-5{
+    
+    margin-right: 30% !important;
+    margin-left: 30% !important;
+}
+.navbar-brand{
+    font-family: "Kaushan Script", cursive;
+}
+
+#billboard{
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+#billImage{
+    background-size: cover;
+    filter: blur(0);
+    display: block;
+}
+
+.billIcon img{
+    width: 50px;
+    margin: 20px auto;
+}
+.billText{
+    background-color: #d6d6d686;
+}
+.billText h1{
+    font-size: 30px;
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+}
+#platforms{
+    margin: auto;
+}
+#platforms img{
+    max-width: 300px;
+}
+#platforms div{
+    margin: auto;
+}
+
+/* MUSIC */
+
+#Streaming{
+    width: 75%;
+    margin: auto;
+}
+#Streaming h2{
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+}
+#Streaming img{
+    max-width: 250px;
+}
+#billimg{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#Streaming div{
+    margin: auto 32%;
+}
+
+/* ABOUT */
+
+#about{
+    width: 75%;
+    margin: auto;
+}
+#about h2{
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+}
+#about div{
+    margin: auto;
+}
+#about img{
+    max-width: 250px;
+}
+#about p{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.distro{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
